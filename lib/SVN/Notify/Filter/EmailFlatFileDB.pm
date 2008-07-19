@@ -12,11 +12,11 @@ SVN::Notify::Filter::EmailFlatFileDB - Converts account names to email address b
 
 =head1 VERSION
 
-Version 1.00
+Version 1.01
 
 =cut
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 SVN::Notify->register_attributes(
                                  account_file  => 'account_file=s',
